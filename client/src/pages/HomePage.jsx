@@ -6,7 +6,7 @@ import styles from "../styles/style.module.css"
 const HomePage = () => {
     const [rooms, setRooms] = useState([])
     const getData = async () => {
-        let res = await fetch("http://localhost:8080/property/all");
+        let res = await fetch("https://airbndserver.onrender.com/property/all");
         let data = await res.json();
         setRooms(data.data)
     }
