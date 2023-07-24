@@ -7,7 +7,7 @@ This is a  web application similar to Airbnb built using MERN stack. It is a ful
 
 **To see the live site click the below link.**
 
-https://64be2dc3ee386836bd26ca0c--creative-granita-1504a4.netlify.app/
+(https://thynkcafe.netlify.app/)
 
 ## Installation
 <ul>
