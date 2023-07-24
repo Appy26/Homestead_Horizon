@@ -1,5 +1,5 @@
 GA201 CONSTRUCT WEEK PROJECT
-![logo1]<img src="https://i.ibb.co/fHjCFjM/Black-White-Simple-Monochrome-Initial-Name-Logo.png">
+!<img src="https://i.ibb.co/fHjCFjM/Black-White-Simple-Monochrome-Initial-Name-Logo.png">
 # Thynk Cafe
 # Thynk Cafe_website_photos
 
