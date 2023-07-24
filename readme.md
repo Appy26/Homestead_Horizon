@@ -1,22 +1,14 @@
-<<<<<<< HEAD
-GA201 CONSTRUCT WEEK PROJECT
-![logo1](<img src="https://i.ibb.co/fHjCFjM/Black-White-Simple-Monochrome-Initial-Name-Logo.png">)
-=======
+
 GA201 CONSTRUCT WEEK PROJECT!
->>>>>>> 1ac6c53b37f32c61fcadb14fca86c00ea0f0da40
 # Thynk Cafe
 
 
-This is a clone of the Airbnb web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
+This is a  web application similar to Airbnb built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
 
 **To see the live site click the below link.**
 
 https://64be2dc3ee386836bd26ca0c--creative-granita-1504a4.netlify.app/
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1ac6c53b37f32c61fcadb14fca86c00ea0f0da40
 ## Installation
 <ul>
  
