@@ -1,13 +1,24 @@
 GA201 CONSTRUCT WEEK PROJECT
-![logo1](<img src="https://i.ibb.co/fHjCFjM/Black-White-Simple-Monochrome-Initial-Name-Logo.png">)
-# Thynk Cafe
-# Thynk Cafe_website_photos
 
-Our project is a property booking app, a popular web application for booking accommodations worldwide. Users can search for and book various types of properties, including houses, apartments, and vacation rentals.
+# Thynk Cafe
+
+
+This is a clone of the Airbnb web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
 
 **To see the live site click the below link.**
 
 https://64be2dc3ee386836bd26ca0c--creative-granita-1504a4.netlify.app/
+
+
+## Installation
+<ul>
+ 
+  <li>Clone the repository to your local machine.</li>
+  <li>Navigate to the project root folder in the terminal</li>
+  <li>Install dependencies using the command npm.</li>
+  <li>You can either work with MongoDB atlas or use your locally installed MongoDB</li>
+   <li>Create a .env file in your project api folder and add your variables.</li>
+</ul>
 
 ## Built with
 <ul>
@@ -17,6 +28,9 @@ https://64be2dc3ee386836bd26ca0c--creative-granita-1504a4.netlify.app/
   <li>React</li>
   <li>MongoDb</li>
 </ul>
+
+
+
 
 ## Used libraries
 <ul>
