@@ -1,5 +1,5 @@
 GA201 CONSTRUCT WEEK PROJECT
-![logo1](./client/public/logo512.png)
+![logo1](./client/public/logo192.png)
 # Thynk Cafe
 # Thynk Cafe_website_photos
 
