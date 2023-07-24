@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 GA201 CONSTRUCT WEEK PROJECT
 ![logo1](<img src="https://i.ibb.co/fHjCFjM/Black-White-Simple-Monochrome-Initial-Name-Logo.png">)
+=======
+GA201 CONSTRUCT WEEK PROJECT!
+>>>>>>> 1ac6c53b37f32c61fcadb14fca86c00ea0f0da40
 # Thynk Cafe
 
 
@@ -9,7 +13,10 @@ This is a clone of the Airbnb web application built using MERN stack. It is a fu
 
 https://64be2dc3ee386836bd26ca0c--creative-granita-1504a4.netlify.app/
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1ac6c53b37f32c61fcadb14fca86c00ea0f0da40
 ## Installation
 <ul>
  
